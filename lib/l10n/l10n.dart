@@ -13,6 +13,7 @@
 /// sappho192@github => Korean
 /// watchakorn-18k@github => Thai
 /// Microsoft Copilot, Tutislav@github => Czech
+/// pxee@github => Traditional Chinese
 
 library l10n;
 
