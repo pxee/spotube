@@ -45,6 +45,7 @@ class L10n {
     const Locale('th', 'TH'),
     const Locale('tr', 'TR'),
     const Locale('zh_cn', 'CN'),
+    const Locale('zh_tw', 'TW'),
     const Locale('vi', 'VN'),
     const Locale('eu', 'ES'),
   ];
